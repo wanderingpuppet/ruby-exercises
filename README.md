@@ -7,3 +7,4 @@ Ruby exercises from [The Odin Project](https://www.theodinproject.com/).
 - Caesar Cipher
 - Sub Strings
 - Stock Picker
+- Bubble Sort
