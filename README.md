@@ -8,3 +8,7 @@ Ruby exercises from [The Odin Project](https://www.theodinproject.com/).
 - Sub Strings
 - Stock Picker
 - Bubble Sort
+
+## Basic OOP
+
+- Tic Tac Toe
