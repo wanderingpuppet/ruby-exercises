@@ -12,3 +12,4 @@ Ruby exercises from [The Odin Project](https://www.theodinproject.com/).
 ## Basic OOP
 
 - Tic Tac Toe
+- Mastermind
